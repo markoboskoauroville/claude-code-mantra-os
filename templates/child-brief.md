@@ -15,4 +15,6 @@ with what you can.
 1. Done: <...>   2. Checks and result: <...>   3. Left: <...>   4. For the human: <...>
 Absolute paths, commit hashes, links.
 
+**Skills:** new or updated skills follow modules/skills-as-movies.md (space, characters, plot) and use the canonical names of modules/dictation-corrections.md (MANTRA_MANIFEST).
+
 **Close:** write any correction you learned into the skill; commit and push what you own to `main`; leave nothing running.
