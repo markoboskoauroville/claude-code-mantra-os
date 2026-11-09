@@ -6,6 +6,7 @@
 **Files to read:** <exact paths>. **Files you may change:** <exact paths>. Nothing else.
 
 **Hard rules that bite here:** <3-6 lines; name what other children own and must not be touched>.
+**Money:** paid or metered action (credits, API, renders, SIM data) → run `spend ask "<who>" "<service>" "<action>" <cost> "<why>"` first and obey it (skill spend-guard); never proceed on silence.
 
 **Needs a human hand:** do not stop. Send ONE message to the master naming the hand (press, plug in, approve), carry on
 with what you can.
